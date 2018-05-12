@@ -1,0 +1,33 @@
+_repo: Polly-s-Senior-Year-at-Boarding-School_30938
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whitehill, Dorothy
+    gutenberg_agent_id: '25594'
+    url: http://www.gutenberg.org/2009/agents/25594
+description: ''
+gutenberg_issued: '2010-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'New York (State) -- Juvenile fiction'
+title: Polly's Senior Year at Boarding School
+url: http://www.gutenberg.org/ebooks/30938
